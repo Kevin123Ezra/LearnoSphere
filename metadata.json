@@ -1,0 +1,6 @@
+{
+  "name": "Learnosphere",
+  "description": "An AI-powered Learning & Knowledge System that acts as your entire university inside one app. Upload materials, summarize content, explain complex concepts, create flashcards, generate quizzes, schedule revision, track progress, adapt to learning styles, and merge study guides in group mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
